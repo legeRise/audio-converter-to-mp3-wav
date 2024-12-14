@@ -17,13 +17,5 @@ The project consists of the following main files:
 - Convert the file to either MP3 or WAV format.
 - Download the converted file.
 
-## Installation
-
-To run this app locally, follow the steps below:
-
-### 1. Clone the repository or download the files.
-
-### 2. Install the required Python dependencies:
-
-```bash
-pip install -r requirements.txt
+## Try it
+- You can try the app by visiting: https://any-audio-converter.streamlit.app/
